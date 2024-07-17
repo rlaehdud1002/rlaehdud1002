@@ -6,6 +6,9 @@
 <!--
 **rlaehdud1002/rlaehdud1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/rlaehdud1002?pet-id=1" width="1000" height="120"/>
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
