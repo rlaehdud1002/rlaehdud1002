@@ -50,6 +50,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaehdud1002)](https://solved.ac/rlaehdud1002/)
 
-<a href="https://github.com/devxb/gitanimals">
+<!-- <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/rlaehdud1002"/>
-</a>
+</a> -->
